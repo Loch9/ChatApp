@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ChatApp.Client/1.0.0": {
+        "dependencies": {
+          "RiptideNetworking.Riptide": "2.0.0",
+          "cslog": "1.0.0"
+        },
+        "runtime": {
+          "ChatApp.Client.dll": {}
+        }
+      },
+      "cslog/1.0.0": {
+        "runtime": {
+          "cslog.dll": {}
+        }
+      },
+      "RiptideNetworking.Riptide/2.0.0": {
+        "runtime": {
+          "RiptideNetworking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatApp.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cslog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RiptideNetworking.Riptide/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

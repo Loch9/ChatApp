@@ -1,0 +1,11 @@
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/bin/Debug/netstandard2.0/netstandard2.0/RiptideNetworking.deps.json
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/bin/Debug/netstandard2.0/netstandard2.0/RiptideNetworking.dll
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/bin/Debug/netstandard2.0/netstandard2.0/RiptideNetworking.pdb
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/bin/Debug/netstandard2.0/netstandard2.0/RiptideNetworking.xml
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.csproj.AssemblyReference.cache
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.AssemblyInfoInputs.cache
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.AssemblyInfo.cs
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.csproj.CoreCompileInputs.cache
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.dll
+/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/Debug/netstandard2.0/RiptideNetworking.pdb
