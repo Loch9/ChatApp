@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NGPKd1nNsVh/zMlRFDwWal/DPEJtmM6m7E0q54tdUVeFDSP0cPWyr6ii+fojQ1GdTLBVCZH7xxNKwGtjr2HOdA==",
+  "dgSpecHash": "r7JappDPqTsuPStG8luh3bzieohBkuToCR+716rKKfchew97QQ/JfRYlddb0EkW5I9szSu4zcder//lRaYMCdA==",
   "success": true,
-  "projectFilePath": "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj",
+  "projectFilePath": "E:\\dev\\ChatApp\\cslog\\cslog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

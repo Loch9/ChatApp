@@ -16,7 +16,8 @@ namespace ChatApp.Client
     public enum ServerToClientId : ushort
     {
         message = 1,
-        names
+        names,
+        messages
     }
 
     public static class NetworkManager
@@ -133,6 +134,16 @@ namespace ChatApp.Client
             foreach (Logger logger in Loggers.Values)
             {
                 logger.SetLogMethod(Console.WriteLine);
+            }
+        }
+
+        [MessageHandler((ushort)ServerToClientId.messages)]
+        private static void GetMessages(Message message)
+        {
+            string[] messages = message.GetStrings();
+            foreach(string msg in messages)
+            {
+                Console.WriteLine(msg);
             }
         }
     }

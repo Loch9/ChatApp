@@ -1,37 +1,44 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dylanrickerby/dev/ChatApp/ChatApp.Client/ChatApp.Client.csproj": {}
+    "E:\\dev\\ChatApp\\ChatApp.Client\\ChatApp.Client.csproj": {}
   },
   "projects": {
-    "/Users/dylanrickerby/dev/ChatApp/ChatApp.Client/ChatApp.Client.csproj": {
+    "E:\\dev\\ChatApp\\ChatApp.Client\\ChatApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dylanrickerby/dev/ChatApp/ChatApp.Client/ChatApp.Client.csproj",
+        "projectUniqueName": "E:\\dev\\ChatApp\\ChatApp.Client\\ChatApp.Client.csproj",
         "projectName": "ChatApp.Client",
-        "projectPath": "/Users/dylanrickerby/dev/ChatApp/ChatApp.Client/ChatApp.Client.csproj",
-        "packagesPath": "/Users/dylanrickerby/.nuget/packages/",
-        "outputPath": "/Users/dylanrickerby/dev/ChatApp/ChatApp.Client/obj/",
+        "projectPath": "E:\\dev\\ChatApp\\ChatApp.Client\\ChatApp.Client.csproj",
+        "packagesPath": "C:\\Users\\lochi\\.nuget\\packages\\",
+        "outputPath": "E:\\dev\\ChatApp\\ChatApp.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\MicrosoftVisualStudio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/dylanrickerby/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lochi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\dev\\Hegarty": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj": {
-                "projectPath": "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj"
+              "E:\\dev\\ChatApp\\cslog\\cslog.csproj": {
+                "projectPath": "E:\\dev\\ChatApp\\cslog\\cslog.csproj"
               },
-              "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/RiptideNetworking.csproj": {
-                "projectPath": "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/RiptideNetworking.csproj"
+              "E:\\dev\\ChatApp\\RiptideNetworking\\RiptideNetworking.csproj": {
+                "projectPath": "E:\\dev\\ChatApp\\RiptideNetworking\\RiptideNetworking.csproj"
               }
             }
           }
@@ -61,27 +68,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj": {
+    "E:\\dev\\ChatApp\\cslog\\cslog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj",
+        "projectUniqueName": "E:\\dev\\ChatApp\\cslog\\cslog.csproj",
         "projectName": "cslog",
-        "projectPath": "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj",
-        "packagesPath": "/Users/dylanrickerby/.nuget/packages/",
-        "outputPath": "/Users/dylanrickerby/dev/ChatApp/cslog/obj/",
+        "projectPath": "E:\\dev\\ChatApp\\cslog\\cslog.csproj",
+        "packagesPath": "C:\\Users\\lochi\\.nuget\\packages\\",
+        "outputPath": "E:\\dev\\ChatApp\\cslog\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\MicrosoftVisualStudio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/dylanrickerby/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lochi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\dev\\Hegarty": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,27 +129,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/RiptideNetworking.csproj": {
+    "E:\\dev\\ChatApp\\RiptideNetworking\\RiptideNetworking.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/RiptideNetworking.csproj",
+        "projectUniqueName": "E:\\dev\\ChatApp\\RiptideNetworking\\RiptideNetworking.csproj",
         "projectName": "RiptideNetworking.Riptide",
-        "projectPath": "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/RiptideNetworking.csproj",
-        "packagesPath": "/Users/dylanrickerby/.nuget/packages/",
-        "outputPath": "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/obj/",
+        "projectPath": "E:\\dev\\ChatApp\\RiptideNetworking\\RiptideNetworking.csproj",
+        "packagesPath": "C:\\Users\\lochi\\.nuget\\packages\\",
+        "outputPath": "E:\\dev\\ChatApp\\RiptideNetworking\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\MicrosoftVisualStudio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/dylanrickerby/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lochi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\dev\\Hegarty": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -172,7 +193,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

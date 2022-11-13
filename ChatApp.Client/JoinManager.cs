@@ -13,7 +13,7 @@ namespace ChatApp.Client
 
         public static void Start()
         {
-            Console.Write("Room's IP adress: ");
+            Console.Write("Room's IP address: ");
             string? ip = Console.ReadLine();
             if (string.IsNullOrEmpty(ip))
             {

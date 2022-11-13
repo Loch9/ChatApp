@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp.Client", "ChatApp.Client\ChatApp.Client.csproj", "{0BD77FAA-87BB-4C3D-90BC-E5093A6D9520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp.Server", "ChatApp.Server\ChatApp.Server.csproj", "{0E556120-7BFB-45B6-A753-852432BCA650}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiptideNetworking", "RiptideNetworking\RiptideNetworking.csproj", "{F0DD339D-FADC-4A02-990F-A34558598BA7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cslog", "cslog\cslog.csproj", "{B1DD697B-4B50-4F26-A351-5FAE6CB37346}"
@@ -19,6 +21,10 @@ Global
 		{0BD77FAA-87BB-4C3D-90BC-E5093A6D9520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BD77FAA-87BB-4C3D-90BC-E5093A6D9520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BD77FAA-87BB-4C3D-90BC-E5093A6D9520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E556120-7BFB-45B6-A753-852432BCA650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E556120-7BFB-45B6-A753-852432BCA650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E556120-7BFB-45B6-A753-852432BCA650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E556120-7BFB-45B6-A753-852432BCA650}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F0DD339D-FADC-4A02-990F-A34558598BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F0DD339D-FADC-4A02-990F-A34558598BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0DD339D-FADC-4A02-990F-A34558598BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU

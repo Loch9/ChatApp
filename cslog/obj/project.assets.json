@@ -8,25 +8,33 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/dylanrickerby/.nuget/packages/": {}
+    "C:\\Users\\lochi\\.nuget\\packages\\": {},
+    "E:\\Programs\\MicrosoftVisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj",
+      "projectUniqueName": "E:\\dev\\ChatApp\\cslog\\cslog.csproj",
       "projectName": "cslog",
-      "projectPath": "/Users/dylanrickerby/dev/ChatApp/cslog/cslog.csproj",
-      "packagesPath": "/Users/dylanrickerby/.nuget/packages/",
-      "outputPath": "/Users/dylanrickerby/dev/ChatApp/cslog/obj/",
+      "projectPath": "E:\\dev\\ChatApp\\cslog\\cslog.csproj",
+      "packagesPath": "C:\\Users\\lochi\\.nuget\\packages\\",
+      "outputPath": "E:\\dev\\ChatApp\\cslog\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Programs\\MicrosoftVisualStudio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/dylanrickerby/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lochi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "E:\\dev\\Hegarty": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

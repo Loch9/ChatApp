@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cPV2rpRTyCWUdrIUP22NF1dr5mY1+XNxHW9GU52bTpGY6yAKlLsPIKoafZAzdQoXt07JA6dyrNuiNBzEC2Rm6g==",
+  "dgSpecHash": "EYGDFhrftDlVSj2i/BQdyslMMcoqLaNtWZweFil4esLOLxPNeyS6qrtn9w4zw6S1Dt/QJRC+etem4/8/rCpmwQ==",
   "success": true,
-  "projectFilePath": "/Users/dylanrickerby/dev/ChatApp/RiptideNetworking/RiptideNetworking.csproj",
+  "projectFilePath": "E:\\dev\\ChatApp\\RiptideNetworking\\RiptideNetworking.csproj",
   "expectedPackageFiles": [
-    "/Users/dylanrickerby/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/dylanrickerby/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\lochi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lochi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

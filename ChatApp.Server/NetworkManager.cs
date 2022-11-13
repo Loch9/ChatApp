@@ -16,7 +16,8 @@ namespace ChatApp.Server
     public enum ServerToClientId : ushort
     {
         message = 1,
-        names
+        names,
+        messages
     }
 
     public static class NetworkManager
@@ -35,7 +36,7 @@ namespace ChatApp.Server
             
             RiptideLogger.Initialize(Logger.LogDebug, Logger.LogInfo, Logger.LogWarning, Logger.LogError, false);
 
-            Server = new Riptide.Server();
+            Server = new Riptide.Server(new Riptide.Transports.Udp.UdpServer(Riptide.Transports.Udp.SocketMode.IPv4Only));
             Server.Start(Port, MaxClientCount);
             Server.ClientConnected += ClientConnected;
             Server.ClientDisconnected += ClientDisconnected;
@@ -49,6 +50,15 @@ namespace ChatApp.Server
         public static void ClientConnected(object? sender, ServerConnectedEventArgs e)
         {
             User.list.Add(e.Client.Id, new User());
+
+            if (!(string.IsNullOrEmpty(ClientMessageHandler.Room)) && File.Exists("assets/rooms/" + ClientMessageHandler.Room + ".ca")) 
+            {
+                FileStream fs = new FileStream("assets/rooms/" + ClientMessageHandler.Room + ".ca", FileMode.Open, FileAccess.Read);
+                StreamReader reader = new StreamReader(fs);
+                ClientMessageHandler.SendMessages(e.Client.Id, reader.ReadToEnd());
+
+                reader.Close();
+            }
         }
 
         public static void ClientDisconnected(object? sender, ServerDisconnectedEventArgs e)

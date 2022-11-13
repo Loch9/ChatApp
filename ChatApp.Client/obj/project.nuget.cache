@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8Nq5f53NurGtrSPlXoTed8+LcJHqXrhJt9Q2SoloeB6K5csCiMz7nQ2ZNgQK2xgd60mq3no1szc1xmv0RhsLQ==",
+  "dgSpecHash": "n21EA8Tz7tMn+l1P7AYgur+q52HEf1gPLFwNsb9nR+Vxnbad0qqWngx9Hcq+htECuiJSgYFm/1ltkpHpJYIAVw==",
   "success": true,
-  "projectFilePath": "/Users/dylanrickerby/dev/ChatApp/ChatApp.Client/ChatApp.Client.csproj",
+  "projectFilePath": "E:\\dev\\ChatApp\\ChatApp.Client\\ChatApp.Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
